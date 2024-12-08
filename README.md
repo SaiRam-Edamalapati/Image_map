@@ -303,10 +303,10 @@ bhaskara.html
 
 # OUTPUT
 ![alt text](imagemap1.png-1.png)
-![alt text](<Screenshot 2024-12-08 205125.png>)
+![alt text](<Screenshot 2024-12-08 211901.png>)
 ![alt text](<Screenshot 2024-12-08 205142.png>)
 ![alt text](<Screenshot 2024-12-08 205212.png>)
 ![alt text](<Screenshot 2024-12-08 205235.png>)
-![alt text](<Screenshot 2024-12-08 205245.png>)
+![alt text](<Screenshot (21).png>)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
